@@ -4,3 +4,9 @@
 
 # to see running project 
 got to => http://localhost/
+
+# example docker commands
+1. docker ps -a (see all the docker containers  running and stopped)
+2. docker kill <container id> (to kill running docker container)
+3. docker images -a (See all the docker images)
+4. docker rmi <imageid> (remove docker images from machine)
